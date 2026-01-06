@@ -27,9 +27,8 @@ Aspiring Python Developer on a mission to master Python in 2026 through real-wor
 ![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexWabita&show_icons=true&theme=radical)
 
 ## 📫 How to Reach Me
-- 📧 Email: [Your email if you want to share]
-- 💼 LinkedIn: [Your LinkedIn if you have one]
-- 🐦 Twitter: [Your handle if you have one]
+- 📧 Email: njerialexwabita@gmail.com
+- 💼 LinkedIn: www.linkedin.com/in/alex-wabita-502386295
 
 ## 🎓 Learning Philosophy
 *"The best way to learn programming is to solve real problems, document the journey, and share knowledge with others."*
