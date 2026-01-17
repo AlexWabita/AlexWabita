@@ -1,7 +1,18 @@
-# Hi there, I'm Alex Wabita 👋
+# Hi, I'm Alex Wabita 👋
 
-## 🚀 About Me
-Aspiring Python Developer on a mission to master Python in 2026 through real-world projects. I believe in learning by building and documenting every step of the journey.
+Third-year BSc IT student at Karatina University (Kenya) | Aspiring Web Developer, Python Developer & Cyber/Cloud Security Enthusiast
+
+Currently building Python skills through real-world projects while exploring Kali/Parrot OS basics for cybersecurity and AWS/AZURE for cloud security concepts.
+
+- 🌱 Learning: Python, basic HTML/CSS, intro cybersecurity and cloud security (ethical hacking tools)
+
+
+## Skills
+- Languages: Python (beginner-intermediate), HTML/CSS (basic)
+- Tools: Kali Linux, Parrot OS (exploratory), Git/GitHub, AWS and AZURE
+- Interests: Web dev, Cybersecurity, Cloud Security, Automation
+
+Check out my pinned projects below!
 
 ## 🎯 Current Focus
 - 📚 Working through a comprehensive Python mastery roadmap
